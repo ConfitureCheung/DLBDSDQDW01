@@ -1,0 +1,7 @@
+seq,link,method,frequency
+1,https://www.nba.com/players,selenium,daily
+2,https://allsportsapi.com/,api,daily
+3,https://www.popularbasketballers.com/,selenium,daily
+4,https://kixstats.com/ratings?from=2023-06-08&to=2023-07-07&type=choice&league=NBA&by=kicks#results,selenium,daily
+5,https://nbashoesdb.com/,selenium,daily
+6,https://www.soleretriever.com/news/articles/every-nba-player-that-has-a-signature-sneaker-2022-2023,selenium,daily

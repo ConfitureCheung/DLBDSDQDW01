@@ -1,0 +1,137 @@
+{
+    "success": 1,
+    "result": [
+      {
+        "event_key": "41223",
+        "event_date": "2022-04-21",
+        "event_time": "01:00",
+        "event_home_team": "Boston Celtics",
+        "home_team_key": "7",
+        "event_away_team": "Brooklyn Nets",
+        "away_team_key": "2",
+        "event_final_result": "114 - 107",
+        "event_quarter": "",
+        "event_status": "Finished",
+        "country_name": "USA",
+        "league_name": "NBA",
+        "league_key": "766",
+        "league_round": null,
+        "league_season": "2021/2022",
+        "event_live": "0",
+        "event_home_team_logo": "https://apiv2.allsportsapi.com/logo-basketball/7_boston_celtics.jpg",
+        "event_away_team_logo": null,
+        "scores": {
+          "1stQuarter": [
+            {
+              "score_home": "24",
+              "score_away": "33"
+            }
+          ],
+          "2ndQuarter": [
+            {
+              "score_home": "31",
+              "score_away": "32"
+            }
+          ],
+          "3rdQuarter": [
+            {
+              "score_home": "30",
+              "score_away": "25"
+            }
+          ],
+          "4thQuarter": [
+            {
+              "score_home": "29",
+              "score_away": "17"
+            }
+          ]
+        },
+        "statistics": [
+          {
+            "type": "Total Assists",
+            "home": "27",
+            "away": "16"
+          },
+          {
+            "type": "Total Blocks",
+            "home": "4",
+            "away": "8"
+          }
+        ],
+        "lineups": {
+          "home_team": {
+            "starting_lineups": [
+              {
+                "player": "J. Tatum",
+                "player_id": "2673921644"
+              },
+              {
+                "player": "A. Horford",
+                "player_id": "2646138633"
+              }
+            ],
+            "substitutes": [
+              {
+                "player": "G. Williams",
+                "player_id": "4155194651"
+              },
+              {
+                "player": "D. White",
+                "player_id": "1528742162"
+              }
+            ]
+          }
+        },
+        "player_statistics": {
+          "home_team": [
+            {
+              "player": "J. Tatum",
+              "player_id": "2673921644",
+              "player_assists": "10",
+              "player_blocks": "1",
+              "player_defense_rebounds": "5",
+              "player_field_goals_attempts": "16",
+              "player_field_goals_made": "5",
+              "player_freethrows_goals_attempts": "8",
+              "player_freethrows_goals_made": "7",
+              "player_minutes": "41",
+              "player_offence_rebounds": "1",
+              "player_oncourt": "False",
+              "player_personal_fouls": "4",
+              "player_plus_minus": "+11",
+              "player_position": "SF",
+              "player_points": "19",
+              "player_steals": "0",
+              "player_threepoint_goals_attempts": "5",
+              "player_threepoint_goals_made": "2",
+              "player_total_rebounds": "6",
+              "player_turnovers": "3"
+            },
+            {
+              "player": "J. Brown",
+              "player_id": "2673921645",
+              "player_assists": "4",
+              "player_blocks": "0",
+              "player_defense_rebounds": "3",
+              "player_field_goals_attempts": "15",
+              "player_field_goals_made": "8",
+              "player_freethrows_goals_attempts": "2",
+              "player_freethrows_goals_made": "2",
+              "player_minutes": "42",
+              "player_offence_rebounds": "2",
+              "player_oncourt": "False",
+              "player_personal_fouls": "3",
+              "player_plus_minus": "+16",
+              "player_position": "SF",
+              "player_points": "18",
+              "player_steals": "2",
+              "player_threepoint_goals_attempts": "2",
+              "player_threepoint_goals_made": "0",
+              "player_total_rebounds": "5",
+              "player_turnovers": "3"
+            }
+          ]
+        }
+      }
+    ]
+}
